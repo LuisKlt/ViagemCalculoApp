@@ -1,6 +1,6 @@
-import 'package:custoviagem/model/carros.dart';
-import 'package:custoviagem/model/combustivel.dart';
-import 'package:custoviagem/model/destinos.dart';
+import 'package:viagemcalculo/model/carros.dart';
+import 'package:viagemcalculo/model/combustivel.dart';
+import 'package:viagemcalculo/model/destinos.dart';
 import 'package:flutter/material.dart';
 
 class CalculoTela extends StatefulWidget {

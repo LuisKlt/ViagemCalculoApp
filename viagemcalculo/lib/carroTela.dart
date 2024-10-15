@@ -1,7 +1,6 @@
-import 'package:custoviagem/cardCarro.dart';
-import 'package:custoviagem/model/carros.dart';
+import 'package:viagemcalculo/cardCarro.dart';
+import 'package:viagemcalculo/model/carros.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 class CarroTela extends StatefulWidget {
   final List<Carros> listaCarros;

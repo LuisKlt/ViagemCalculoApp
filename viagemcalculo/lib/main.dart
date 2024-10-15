@@ -1,10 +1,10 @@
-import 'package:custoviagem/calculoTela.dart';
-import 'package:custoviagem/carroTela.dart';
-import 'package:custoviagem/destinoTela.dart';
-import 'package:custoviagem/gasolinaTela.dart';
-import 'package:custoviagem/model/carros.dart';
-import 'package:custoviagem/model/combustivel.dart';
-import 'package:custoviagem/model/destinos.dart';
+import 'package:viagemcalculo/calculoTela.dart';
+import 'package:viagemcalculo/carroTela.dart';
+import 'package:viagemcalculo/destinoTela.dart';
+import 'package:viagemcalculo/gasolinaTela.dart';
+import 'package:viagemcalculo/model/carros.dart';
+import 'package:viagemcalculo/model/combustivel.dart';
+import 'package:viagemcalculo/model/destinos.dart';
 import 'package:flutter/material.dart';
 
 void main() {

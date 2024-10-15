@@ -1,7 +1,6 @@
-import 'package:custoviagem/cardCombustivel.dart';
-import 'package:custoviagem/model/combustivel.dart';
+import 'package:viagemcalculo/cardCombustivel.dart';
+import 'package:viagemcalculo/model/combustivel.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 class GasolinaTela extends StatefulWidget {
   final List<Combustivel> listaCombustivel;

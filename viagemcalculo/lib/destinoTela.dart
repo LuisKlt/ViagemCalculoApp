@@ -1,7 +1,6 @@
-import 'package:custoviagem/cardDestino.dart';
-import 'package:custoviagem/model/destinos.dart';
+import 'package:viagemcalculo/cardDestino.dart';
+import 'package:viagemcalculo/model/destinos.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 class DestinoTela extends StatefulWidget {
   final List<Destinos> listaDestinos;
